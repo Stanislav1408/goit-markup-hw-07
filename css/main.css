@@ -511,7 +511,7 @@ textarea::placeholder {
   content: "";
   border-color: transparent;
   background-color: #2196f3;
-  background-image: url(/svg/check.svg);
+  background-image: url(../svg/check.svg);
   background-size: contain;
   background-origin: border-box;
   background-repeat: no-repeat;
@@ -752,8 +752,8 @@ textarea::placeholder {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url(/img/Img.png);
-  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(/img/Img.png);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url(../img/Img.png);
+  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../img/Img.png);
   width: 1600px;
   height: 600px;
   background-repeat: no-repeat;
