@@ -66,7 +66,7 @@
   margin-top: 10px;
 
   & label {
-    padding-bottom: 4px;
+    margin-bottom: 4px;
     font-size: 12px;
     line-height: 1.16;
     letter-spacing: 0.01em;
@@ -204,7 +204,7 @@ textarea::placeholder {
 
 .form-field svg {
   position: absolute;
-  top: 50%;
+  top: 30px;
   left: 12px;
   transition-property: fill;
   transition-duration: 250ms;
