@@ -173,6 +173,7 @@ textarea::placeholder {
   background-size: contain;
   background-origin: border-box;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .checkbox:focus + .icon-modal::before {

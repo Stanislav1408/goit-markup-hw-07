@@ -515,6 +515,7 @@ textarea::placeholder {
   background-size: contain;
   background-origin: border-box;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .checkbox:focus + .icon-modal::before {
@@ -1319,16 +1320,13 @@ textarea::placeholder {
   padding: 0px;
 }
 
-.mail {
-  margin: 9px 0 9px 0;
-}
-
 .mailtel-a {
   color: #757575;
   text-decoration: none;
   display: block;
   -webkit-transition-duration: 250ms;
           transition-duration: 250ms;
+  margin-top: 9px;
 }
 
 .mailtel-b {
@@ -1337,6 +1335,7 @@ textarea::placeholder {
   display: block;
   -webkit-transition-duration: 250ms;
           transition-duration: 250ms;
+  margin-top: 9px;
 }
 
 .footer-mail {
