@@ -103,15 +103,12 @@
   padding: 0px;
 }
 
-.mail {
-  margin: 9px 0 9px 0;
-}
-
 .mailtel-a {
   color: $color;
   text-decoration: none;
   display: block;
   transition-duration: 250ms;
+  margin-top: 9px;
 }
 
 .mailtel-b {
@@ -119,6 +116,7 @@
   text-decoration: none;
   display: block;
   transition-duration: 250ms;
+  margin-top: 9px;
 }
 
 .footer-mail {

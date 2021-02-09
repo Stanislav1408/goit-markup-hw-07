@@ -644,16 +644,13 @@ button {
   padding: 0px;
 }
 
-.mail {
-  margin: 9px 0 9px 0;
-}
-
 .mailtel-a {
   color: #757575;
   text-decoration: none;
   display: block;
   -webkit-transition-duration: 250ms;
           transition-duration: 250ms;
+  margin-top: 9px;
 }
 
 .mailtel-b {
@@ -662,6 +659,7 @@ button {
   display: block;
   -webkit-transition-duration: 250ms;
           transition-duration: 250ms;
+  margin-top: 9px;
 }
 
 .footer-mail {
