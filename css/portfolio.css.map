@@ -5,7 +5,7 @@
         "../sass/portfolio.scss",
         "../sass/utils/_variable.scss",
         "../sass/base/_normalize.scss",
-        "../sass/componets/main-page/_body.scss",
+        "../sass/base/_body.scss",
         "../sass/utils/_utils.scss",
         "../sass/componets/portfolio-page/_header.scss",
         "../sass/componets/portfolio-page/_footer.scss",
